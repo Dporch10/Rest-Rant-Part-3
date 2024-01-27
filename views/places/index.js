@@ -38,4 +38,4 @@ app.get('/', (req, res) => {
 )
 }
 
-  
+  module.exports = index
